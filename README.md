@@ -1,4 +1,4 @@
-# PIRCharger
+# YO6PIR Charger - Smart Charger
 
 Firmware for a **PIC16F877A-based, single-channel battery charger and
 discharger**. PIRCharger measures pack voltage and current, guides the
