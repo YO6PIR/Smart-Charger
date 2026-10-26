@@ -1,4 +1,5 @@
 # YO6PIR Charger - Smart Charger
+visit : https://qsl.net/yo6pir/smc.html
 
 Firmware for a **PIC16F877A-based, single-channel battery charger and
 discharger**. PIRCharger measures pack voltage and current, guides the
