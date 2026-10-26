@@ -319,5 +319,4 @@ tested with the intended board and power stage.
 
 ## License
 
-Add the license that applies to your project before publishing this
-repository. No license is specified here.
+MIT License
