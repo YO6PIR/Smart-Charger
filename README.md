@@ -1,4 +1,6 @@
 # YO6PIR Charger - Smart Charger
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/a2be42f1-9d86-400b-99fa-34c9c8498e95" />
+
 visit : https://qsl.net/yo6pir/smc.html
 
 Firmware for a **PIC16F877A-based, single-channel battery charger and
